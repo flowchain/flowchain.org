@@ -41,3 +41,6 @@
 
 ## Conclusion
 These guidelines are tailored to maintain the high technical standards expected on Flowchain.org. By adhering to these principles, we can ensure that the platform remains a valuable resource for developers and technical users, fostering innovation and collaboration within the community.
+
+- Version: 1.0.0
+- Last update: August, 21, 2024
