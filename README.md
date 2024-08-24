@@ -1,5 +1,7 @@
 # Flowchain.org Editor Guidelines (Technical Focus)
 
+Flowchain is officially managed and ,aintained by the community, and flowchain.co has migrated to Flowchain.org
+
 ## 1. Purpose and Scope
 - **Objective:** These guidelines are designed to maintain the technical accuracy, quality, and integrity of content on Flowchain.org as the platform transitions to community-driven management.
 - **Scope:** Applies to all technical contributors, developers, and community members with editing permissions on Flowchain.org.
